@@ -1,0 +1,62 @@
+{
+  "dashboard": {
+    "src": "/crm/easyorder/styled/dashboard.webp",
+    "width": 1600,
+    "height": 1000
+  },
+  "clients": {
+    "src": "/crm/easyorder/styled/clients.webp",
+    "width": 1600,
+    "height": 1000
+  },
+  "order": {
+    "src": "/crm/easyorder/styled/order.webp",
+    "width": 1600,
+    "height": 1000
+  },
+  "composition": {
+    "src": "/crm/easyorder/styled/composition.webp",
+    "width": 1600,
+    "height": 1000
+  },
+  "appointments": {
+    "src": "/crm/easyorder/styled/appointments.webp",
+    "width": 1600,
+    "height": 1000
+  },
+  "calendar": {
+    "src": "/crm/easyorder/styled/calendar.webp",
+    "width": 1600,
+    "height": 1000
+  },
+  "store-statistics": {
+    "src": "/crm/easyorder/styled/store-statistics.webp",
+    "width": 1600,
+    "height": 1000
+  },
+  "manager-statistics": {
+    "src": "/crm/easyorder/styled/manager-statistics.webp",
+    "width": 1600,
+    "height": 1000
+  },
+  "network-statistics": {
+    "src": "/crm/easyorder/styled/network-statistics.webp",
+    "width": 1600,
+    "height": 1000
+  },
+  "chat": {
+    "src": "/crm/easyorder/styled/chat.webp",
+    "width": 1600,
+    "height": 1000
+  },
+  "workflow": {
+    "src": "/crm/easyorder/styled/workflow.webp",
+    "width": 1600,
+    "height": 1000
+  },
+  "files": {
+    "src": "/crm/easyorder/styled/files.webp",
+    "width": 1600,
+    "height": 1000
+  }
+}

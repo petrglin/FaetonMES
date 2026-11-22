@@ -1,0 +1,36 @@
+{
+  "name": "site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "WATCHPACK_POLLING=true next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "prebuild": "npm run factory:sync",
+    "factory:sync": "node scripts/sync-factory-demo.mjs",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "next typegen && tsc --noEmit",
+    "git": "PATH=\"$PWD/.tools/git/bin:$PATH\" GIT_EXEC_PATH=\"$PWD/.tools/git/libexec/git-core\" ./.tools/git/bin/git"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "dependencies": {
+    "@base-ui/react": "^1.8.0",
+    "next": "16.3.8",
+    "nodemailer": "^10.3.1",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "thinking-orbs": "^0.3.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.3",
+    "@types/node": "^24",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.8",
+    "tailwindcss": "4.3.3",
+    "typescript": "^5"
+  }
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+<rect width="960" height="600" rx="16" fill="#f0f5fb"/>
+<g font-family="Arial, sans-serif">
+<path d="M16 0h928q16 0 16 16v48H0V16Q0 0 16 0" fill="#153655"/>
+<text x="28" y="40" fill="white" font-size="22" font-weight="bold">FaetonMES</text><text x="730" y="38" fill="#b8cde0" font-size="15">Демонстрационный макет</text>
+<rect y="64" width="178" height="536" fill="white"/>
+<rect x="12" y="99" width="154" height="40" rx="7" fill="#e7f1ff"/>
+<g font-size="16" fill="#607185"><text x="28" y="125" fill="#0059bd" font-weight="bold">Заказы</text><text x="28" y="177">Заказчики</text><text x="28" y="229">Продукция</text><text x="28" y="281">Счета</text><text x="28" y="333">Отчёты</text></g>
+<text x="208" y="114" fill="#153655" font-size="27" font-weight="bold">Заказы продаж</text>
+<rect x="754" y="86" width="176" height="40" rx="6" fill="#0059bd"/><text x="778" y="112" fill="white" font-size="16">+ Новый заказ</text>
+<g fill="white" stroke="#dce5ee"><rect x="208" y="152" width="222" height="76" rx="8"/><rect x="446" y="152" width="222" height="76" rx="8"/><rect x="684" y="152" width="246" height="76" rx="8"/></g>
+<g fill="#607185" font-size="14"><text x="226" y="177">Новые</text><text x="464" y="177">На согласовании</text><text x="702" y="177">В производстве</text></g>
+<g fill="#0059bd" font-size="26" font-weight="bold"><text x="226" y="210">12</text><text x="464" y="210">8</text><text x="702" y="210">24</text></g>
+<rect x="208" y="252" width="722" height="304" rx="8" fill="white" stroke="#dce5ee"/>
+<path d="M208 300h722M208 357h722M208 414h722M208 471h722M208 528h722" stroke="#e5edf5"/>
+<g font-size="14" fill="#607185"><text x="226" y="282">Номер</text><text x="344" y="282">Заказчик / изделие</text><text x="638" y="282">Дата</text><text x="766" y="282">Статус</text></g>
+<g font-size="15" fill="#203146"><text x="226" y="335">ЗК-1042</text><text x="344" y="335">Кухня · индивидуальный заказ</text><text x="638" y="335">12.10</text><text x="226" y="392">ЗК-1041</text><text x="344" y="392">Шкаф · серия «Линия»</text><text x="638" y="392">12.10</text><text x="226" y="449">ЗК-1040</text><text x="344" y="449">Мебель для гостиной</text><text x="638" y="449">11.10</text><text x="226" y="506">ЗК-1039</text><text x="344" y="506">Комплект тумб</text><text x="638" y="506">11.10</text></g>
+<g fill="#e7f1ff"><rect x="752" y="313" width="158" height="32" rx="16"/><rect x="752" y="370" width="158" height="32" rx="16"/><rect x="752" y="427" width="158" height="32" rx="16"/><rect x="752" y="484" width="158" height="32" rx="16"/></g>
+<g fill="#0059bd" font-size="13" text-anchor="middle"><text x="831" y="334">Согласование</text><text x="831" y="391">Конфигурация</text><text x="831" y="448">В производстве</text><text x="831" y="505">В производстве</text></g>
+<text x="208" y="582" fill="#8593a3" font-size="13">Условные данные · не является снимком реальной системы</text>
+</g></svg>

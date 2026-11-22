@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+<rect width="960" height="600" rx="16" fill="#f0f5fb"/>
+<g font-family="Arial, sans-serif">
+<path d="M16 0h928q16 0 16 16v48H0V16Q0 0 16 0" fill="#153655"/>
+<text x="26" y="40" fill="white" font-size="22" font-weight="bold">FaetonMES</text><text x="730" y="38" fill="#b8cde0" font-size="15">Демонстрационный макет</text>
+<text x="28" y="111" fill="#153655" font-size="26" font-weight="bold">Заказ ЗК-1042 · Конфигурация</text>
+<g font-size="15"><text x="28" y="152" fill="#0059bd">Позиции заказа</text><text x="212" y="152" fill="#607185">Вложения</text><text x="348" y="152" fill="#607185">История</text></g><path d="M28 165h140" stroke="#0059bd" stroke-width="3"/>
+<rect x="28" y="188" width="276" height="362" rx="8" fill="white" stroke="#dce5ee"/>
+<text x="48" y="222" fill="#153655" font-size="17" font-weight="bold">Структура изделия</text>
+<path d="M54 257v190m0-150h22m-22 50h22m-22 50h22m-22 50h22" stroke="#b8cde0" stroke-width="2" fill="none"/>
+<rect x="73" y="326" width="210" height="38" rx="5" fill="#e7f1ff"/>
+<g font-size="15" fill="#203146"><text x="48" y="260">Кухня</text><text x="86" y="303">Нижние модули</text><text x="86" y="351" fill="#0059bd">Тумба с дверцами</text><text x="86" y="403">Верхние модули</text><text x="86" y="453">Столешница</text></g>
+<rect x="324" y="188" width="290" height="362" rx="8" fill="white" stroke="#dce5ee"/>
+<text x="344" y="222" fill="#153655" font-size="17" font-weight="bold">Свойства и опции</text>
+<g font-size="14" fill="#607185"><text x="344" y="261">Ширина, мм</text><text x="344" y="342">Материал корпуса</text><text x="344" y="423">Фасад</text></g>
+<g fill="#f4f7fa" stroke="#dce5ee"><rect x="344" y="274" width="250" height="40" rx="5"/><rect x="344" y="355" width="250" height="40" rx="5"/><rect x="344" y="436" width="250" height="40" rx="5"/></g>
+<g font-size="16" fill="#203146"><text x="358" y="300">800</text><text x="358" y="381">ЛДСП · светлый</text><text x="358" y="462">Матовый · синий</text></g>
+<text x="344" y="519" fill="#0059bd" font-size="14">✓ Конфигурация допустима</text>
+<rect x="634" y="188" width="298" height="362" rx="8" fill="white" stroke="#dce5ee"/>
+<text x="654" y="222" fill="#153655" font-size="17" font-weight="bold">Представление изделия</text>
+<g stroke="#0059bd" stroke-width="2.5" stroke-linejoin="round"><path d="m689 313 62-43h130l-62 43Z" fill="#e1e7ed"/><path d="m819 313 62-43v153l-62 43Z" fill="#8593a3"/><path d="M689 313h130v153H689Z" fill="#e7f1ff"/><path d="M754 313v153M740 365v29m28-29v29M702 466v13m104-13v13" fill="none"/></g>
+<text x="680" y="519" fill="#8593a3" font-size="13">Условная визуализация</text>
+<text x="28" y="582" fill="#8593a3" font-size="13">Условные данные · не является снимком реальной системы</text>
+</g></svg>

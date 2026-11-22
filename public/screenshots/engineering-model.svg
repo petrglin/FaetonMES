@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0v24" fill="none" stroke="#dce5ee" stroke-width=".7"/></pattern></defs>
+<rect width="960" height="600" rx="16" fill="#f0f5fb"/>
+<g font-family="Arial, sans-serif"><path d="M16 0h928q16 0 16 16v48H0V16Q0 0 16 0" fill="#153655"/>
+<text x="28" y="40" fill="white" font-size="22" font-weight="bold">FaetonMES</text><text x="730" y="38" fill="#b8cde0" font-size="15">Демонстрационный макет</text>
+<text x="28" y="111" fill="#153655" font-size="26" font-weight="bold">Инженерный Конфигуратор</text>
+<g fill="#607185" font-size="15"><text x="28" y="152" fill="#0059bd">Модель изделия</text><text x="220" y="152">Правила</text><text x="340" y="152">Производственные данные</text></g><path d="M28 165h145" stroke="#0059bd" stroke-width="3"/>
+<rect x="28" y="188" width="556" height="362" rx="8" fill="white" stroke="#dce5ee"/><rect x="29" y="189" width="554" height="360" rx="8" fill="url(#grid)"/>
+<text x="48" y="220" fill="#607185" font-size="14">Шкаф · параметрическая модель</text>
+<g stroke="#0059bd" stroke-width="2.5" stroke-linejoin="round"><path d="m196 288 75-49h153l-75 49Z" fill="#dfe7ef"/><path d="m349 288 75-49v213l-75 49Z" fill="#8593a3"/><path d="M196 288h153v213H196Z" fill="#e7f1ff"/><path d="M272 288v213M258 376v28m28-28v28M210 501v13m126-13v13" fill="none"/></g>
+<g stroke="#8593a3" stroke-width="1.5" fill="none"><path d="M175 288v213m-5-208 5-5 5 5m-10 203 5 5 5-5M196 530h153m-148-5-5 5 5 5m143-10 5 5-5 5"/></g>
+<g fill="#607185" font-size="13"><text x="126" y="401">2200</text><text x="252" y="548">800</text></g>
+<rect x="604" y="188" width="328" height="362" rx="8" fill="white" stroke="#dce5ee"/><text x="624" y="220" fill="#153655" font-size="18" font-weight="bold">Параметры изделия</text>
+<g font-size="14" fill="#607185"><text x="624" y="260">Ширина / высота / глубина, мм</text><text x="624" y="340">Материал корпуса</text><text x="624" y="420">Правила и ограничения</text></g>
+<g fill="#f0f5fb" stroke="#dce5ee"><rect x="624" y="275" width="288" height="40" rx="5"/><rect x="624" y="355" width="288" height="40" rx="5"/></g>
+<g font-size="16" fill="#203146"><text x="640" y="301">800 × 2200 × 600</text><text x="640" y="381">ЛДСП · 18 мм</text></g>
+<g font-size="14" fill="#0059bd"><text x="624" y="454">✓ Размеры в допустимых пределах</text><text x="624" y="485">✓ Состав изделия пересчитан</text><text x="624" y="516">✓ Геометрия обновлена</text></g>
+<text x="28" y="582" fill="#8593a3" font-size="13">Условная иллюстрация · не является снимком реальной системы</text></g></svg>

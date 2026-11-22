@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+<rect width="960" height="600" rx="16" fill="#f0f5fb"/>
+<g font-family="Arial, sans-serif"><path d="M16 0h928q16 0 16 16v48H0V16Q0 0 16 0" fill="#153655"/>
+<text x="28" y="40" fill="white" font-size="22" font-weight="bold">FaetonMES</text><text x="730" y="38" fill="#b8cde0" font-size="15">Демонстрационный макет</text>
+<text x="28" y="111" fill="#153655" font-size="26" font-weight="bold">Производственные данные изделия</text>
+<g font-size="15" fill="#607185"><text x="28" y="152" fill="#0059bd">Спецификация материалов</text><text x="288" y="152">Чертежи</text><text x="424" y="152">ЧПУ-геометрия</text></g><path d="M28 165h219" stroke="#0059bd" stroke-width="3"/>
+<rect x="28" y="188" width="556" height="362" rx="8" fill="white" stroke="#dce5ee"/>
+<g stroke="#e5edf5"><path d="M28 244h556M28 302h556M28 360h556M28 418h556M28 476h556"/></g>
+<g fill="#607185" font-size="14"><text x="48" y="222">Деталь</text><text x="294" y="222">Размер, мм</text><text x="480" y="222">Кол-во</text></g>
+<g fill="#203146" font-size="15"><text x="48" y="279">Боковина</text><text x="294" y="279">2200 × 600</text><text x="500" y="279">2</text><text x="48" y="337">Верхняя панель</text><text x="294" y="337">764 × 600</text><text x="500" y="337">1</text><text x="48" y="395">Нижняя панель</text><text x="294" y="395">764 × 600</text><text x="500" y="395">1</text><text x="48" y="453">Полка</text><text x="294" y="453">764 × 560</text><text x="500" y="453">3</text><text x="48" y="511">Фасад</text><text x="294" y="511">2196 × 397</text><text x="500" y="511">2</text></g>
+<rect x="604" y="188" width="328" height="362" rx="8" fill="white" stroke="#dce5ee"/><text x="624" y="220" fill="#153655" font-size="18" font-weight="bold">Геометрия детали</text>
+<g stroke="#0059bd" fill="none" stroke-width="2"><rect x="683" y="265" width="158" height="220"/><path d="M691 265v220" stroke-dasharray="5 5"/><circle cx="706" cy="286" r="4"/><circle cx="706" cy="464" r="4"/><circle cx="818" cy="286" r="4"/><circle cx="818" cy="464" r="4"/></g>
+<g stroke="#8593a3" fill="none" stroke-width="1.5"><path d="M862 265v220m-5-215 5-5 5 5m-10 210 5 5 5-5M683 503h158m-153-5-5 5 5 5m148-10 5 5-5 5"/></g>
+<g fill="#607185" font-size="13"><text x="869" y="381">2200</text><text x="750" y="525">600</text></g>
+<text x="28" y="582" fill="#8593a3" font-size="13">Условная иллюстрация · не является снимком реальной системы</text></g></svg>

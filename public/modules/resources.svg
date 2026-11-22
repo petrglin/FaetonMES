@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260"><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f8fbff"/><stop offset="1" stop-color="#eaf1f8"/></linearGradient><linearGradient id="steel" x2="1" y2="1"><stop stop-color="#e1e7ed"/><stop offset="1" stop-color="#8593a3"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0v24" fill="none" stroke="#0059bd" stroke-opacity=".045"/></pattern></defs><rect width="400" height="260" fill="url(#bg)"/><rect width="400" height="260" fill="url(#grid)"/><path d="M270 36a105 105 0 1 0 0 188" stroke="#0059bd" stroke-opacity=".15" stroke-width="8" fill="none"/><ellipse cx="200" cy="222" rx="80" ry="8" fill="#8593a3" opacity=".1"/>
+
+<g stroke="#0059bd" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Twist drill -->
+  <path d="M89 74h21v30H89Z" fill="url(#steel)"/>
+  <path d="M92 104h15v61l-7 15-8-15Z" fill="#d8e3ed"/>
+  <path d="m93 113 13 10-13 13 13 10-13 13m-10-91h32" fill="none"/>
+  <!-- Circular saw blade -->
+  <path d="M192.0 126.0L185.9 128.5L184.9 134.0L190.3 136.8L183.7 137.3L181.0 142.2L185.3 146.6L178.9 145.0L174.9 148.9L177.6 154.3L171.9 150.9L166.9 153.3L167.8 159.3L163.5 154.3L158.0 155.0L157.0 161.0L154.5 154.9L149.0 153.9L146.2 159.3L145.7 152.7L140.8 150.0L136.4 154.3L138.0 147.9L134.1 143.9L128.7 146.6L132.1 140.9L129.7 135.9L123.7 136.8L128.7 132.5L128.0 127.0L122.0 126.0L128.1 123.5L129.1 118.0L123.7 115.2L130.3 114.7L133.0 109.8L128.7 105.4L135.1 107.0L139.1 103.1L136.4 97.7L142.1 101.1L147.1 98.7L146.2 92.7L150.5 97.7L156.0 97.0L157.0 91.0L159.5 97.1L165.0 98.1L167.8 92.7L168.3 99.3L173.2 102.0L177.6 97.7L176.0 104.1L179.9 108.1L185.3 105.4L181.9 111.1L184.3 116.1L190.3 115.2L185.3 119.5L186.0 125.0Z" fill="url(#steel)"/>
+  <circle cx="157" cy="126" r="22" fill="none" stroke="#8593a3" stroke-width="1.5"/>
+  <circle cx="157" cy="126" r="6" fill="#0059bd"/>
+  <!-- Articulated industrial robot -->
+  <path d="M230 193h57l8 17h-73Z" fill="url(#steel)"/>
+  <path d="M248 191v-24h20v24Z" fill="#d8e3ed"/>
+  <path d="m253 171-37-53 15-10 39 51Z" fill="url(#steel)"/>
+  <path d="m217 109 46-40 11 14-45 40Z" fill="#d8e3ed"/>
+  <path d="m271 68 32 23-8 13-33-24Z" fill="url(#steel)"/>
+  <circle cx="258" cy="164" r="14" fill="#0059bd"/>
+  <circle cx="223" cy="115" r="13" fill="#0059bd"/>
+  <circle cx="268" cy="76" r="12" fill="#0059bd"/>
+  <g fill="#e1e7ed" stroke="none"><circle cx="258" cy="164" r="5"/><circle cx="223" cy="115" r="5"/><circle cx="268" cy="76" r="4"/></g>
+  <path d="m299 94 10 10-4 14m4-14 11 1 7 12m-22 1-5 4m27-5 4 4" fill="none"/>
+  <path d="M79 211h120M100 189v12m56-35v35m-56 0h56m-28 0v10" fill="none" stroke="#8593a3" stroke-width="2.5"/>
+</g>
+</svg>

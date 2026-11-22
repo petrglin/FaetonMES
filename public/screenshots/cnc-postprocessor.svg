@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+<rect width="960" height="600" rx="16" fill="#f0f5fb"/>
+<g font-family="Arial, sans-serif"><path d="M16 0h928q16 0 16 16v48H0V16Q0 0 16 0" fill="#153655"/>
+<text x="28" y="40" fill="white" font-size="22" font-weight="bold">FaetonMES</text><text x="730" y="38" fill="#b8cde0" font-size="15">Демонстрационный макет</text>
+<text x="28" y="111" fill="#153655" font-size="26" font-weight="bold">Универсальный постпроцессор</text>
+<text x="28" y="151" fill="#607185" font-size="15">Настройка преобразования исходных данных в программы для оборудования</text>
+<g fill="#607185" font-size="14"><text x="44" y="208">ИСТОЧНИКИ ДАННЫХ</text><text x="374" y="208">ПРАВИЛА ОБРАБОТКИ</text><text x="714" y="208">ОБОРУДОВАНИЕ</text></g>
+<g fill="white" stroke="#dce5ee"><rect x="28" y="234" width="260" height="76" rx="8"/><rect x="28" y="330" width="260" height="76" rx="8"/><rect x="28" y="426" width="260" height="76" rx="8"/><rect x="352" y="265" width="256" height="206" rx="10"/><rect x="672" y="234" width="260" height="76" rx="8"/><rect x="672" y="330" width="260" height="76" rx="8"/><rect x="672" y="426" width="260" height="76" rx="8"/></g>
+<g fill="#203146" font-size="17" font-weight="bold"><text x="44" y="265">Инженерный Конфигуратор</text><text x="44" y="361">2D-чертежи</text><text x="44" y="457">Другие источники</text><text x="692" y="265">Станок 01</text><text x="692" y="361">Станок 02</text><text x="692" y="457">Станок 03</text></g>
+<g fill="#607185" font-size="14"><text x="44" y="291">Геометрия и операции</text><text x="44" y="387">DXF</text><text x="44" y="483">NCL · существующие программы</text><text x="692" y="291">Формат MPR</text><text x="692" y="387">Формат BPP</text><text x="692" y="483">Формат XML</text></g>
+<g fill="#0059bd"><text x="373" y="301" font-size="18" font-weight="bold">Постпроцессор</text><text x="373" y="346" font-size="15">Макросы обработок</text><text x="373" y="385" font-size="15">Поворот деталей</text><text x="373" y="424" font-size="15">Правила станка</text></g>
+<g stroke="#0059bd" stroke-width="2" fill="none"><path d="M288 272h30v192h-30m30-96h34m-8-5 8 5-8 5M608 368h34V272h30m-30 96h30m-30 0v96h30m-8-197 8 5-8 5m0 86 8 5-8 5m0 86 8 5-8 5"/></g>
+<text x="28" y="582" fill="#8593a3" font-size="13">Условная иллюстрация · не является снимком реальной системы</text></g></svg>
